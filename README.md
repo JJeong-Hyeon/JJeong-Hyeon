@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:fe48a0&height=180&text=JJEONG-HYEON&animation=&fontColor=ffffff&fontSize=40" />
+    </div>
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
