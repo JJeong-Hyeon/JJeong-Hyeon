@@ -4,6 +4,6 @@
 
 <div align="center">
 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=JJeong-Hyeon&show_icons=true&theme=dracula) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJeong-Hyeon&theme=catppuccin_mocha)](https://git.io/streak-stats)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=JJeong-Hyeon&show_icons=true&theme=catppuccin_mocha) 
   
 </div>
