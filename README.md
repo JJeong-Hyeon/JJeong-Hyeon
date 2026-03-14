@@ -4,6 +4,6 @@
 
 <div align="center">
 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=JJeong-Hyeon&show_icons=true&theme=catppuccin_mocha) 
+// ![Stats](https://github-readme-stats.vercel.app/api?username=JJeong-Hyeon&show_icons=true&theme=catppuccin_mocha)
   
 </div>
